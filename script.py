@@ -3,11 +3,14 @@ class script(object):
 
 <b>Send me any Telegram file and choose appropriate option! </b>"""
 
+<b>You must subscribe our channel in order to use me😇 </b>
+<b>My Channel : @VKPROJECTS</b>
+
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    UPGRADE_TEXT = "CONTACT @prgofficial"
+    UPGRADE_TEXT = "CONTACT @VkBotsSupportBot"
     DOWNLOAD_START = "Give Me Some Time..."
     UPLOAD_START = "Starting to upload..."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @prgofficial **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @VKPROJECTS **"
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
