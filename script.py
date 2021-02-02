@@ -3,8 +3,8 @@ class script(object):
 
 <b>Send me any Telegram file and choose appropriate option! </b>"""
 
-<b>You must subscribe our channel in order to use me😇 </b>
-<b>My Channel : @VKPROJECTS</b>
+<b> You must subscribe our channel in order to use me😇 </b>
+<b> My Channel : @VKPROJECTS</b>
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
     UPGRADE_TEXT = "CONTACT @VkBotsSupportBot"
